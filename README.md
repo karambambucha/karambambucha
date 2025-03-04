@@ -1,4 +1,4 @@
 ### Hello there, I’m Max Davydov (aka karambambucha)
-I’m currently learning JavaScript (node.js), C#
+Stack: NodeJs, C#
 
-How to reach me: TSMFDR@yandex.ru, t.me/karambambucha
+How to reach me: TSMFDR@yandex.ru, https://t.me/karambambucha
